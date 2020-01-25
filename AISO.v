@@ -5,14 +5,12 @@
 //                                                                  //
 //  Created by Vince Nguyen on September 19th, 2019.                //
 //  Revised by Vince Nguyen on October 15th, 2019.                  //
-//  Copyright © 2019 Vince Nguyen.  All rights reserved.            //
+//  Copyright Â© 2019 Vince Nguyen.  All rights reserved.            //
 //                                                                  //
 //                                                                  //
-//  In submitting this file for class work at CSULB                 //
-//  I am confirming that this is my work and the work               //
-//  of no one else.  In submitting this code I acknowledge that     //
-//  plagiarism in student project work is subject to dismissal      //
-//  from the class.                                                 //
+//  This file is an asynchronous in, synchronous out (AISO) module  //
+//  that will synchronously reset all other modules to a known      //
+//  state whenever the input "rst" is asserted.
 //******************************************************************//
 
 
