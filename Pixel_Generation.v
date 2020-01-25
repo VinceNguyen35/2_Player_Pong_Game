@@ -4,14 +4,12 @@
 //  File Name:  Pixel_Generation.v                                  //
 //                                                                  //
 //  Created by Vince Nguyen on October 15th, 2019.                  //
-//  Copyright © 2019 Vince Nguyen.  All rights reserved.            //
+//  Copyright Â© 2019 Vince Nguyen.  All rights reserved.            //
 //                                                                  //
 //                                                                  //
-//  In submitting this file for class work at CSULB                 //
-//  I am confirming that this is my work and the work               //
-//  of no one else.  In submitting this code I acknowledge that     //
-//  plagiarism in student project work is subject to dismissal      //
-//  from the class.                                                 //
+//  This file creates the objects for the pong game and their       //
+//  animations.  The ball moves on its own, while both paddles move //
+//  using switches controlled by the players.                       //
 //******************************************************************//
 
 
