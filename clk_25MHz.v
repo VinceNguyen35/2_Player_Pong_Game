@@ -4,14 +4,12 @@
 //  File Name:  clk_25MHz.v                                         //
 //                                                                  //
 //  Created by Vince Nguyen on October 15th, 2019.                  //
-//  Copyright © 2019 Vince Nguyen.  All rights reserved.            //
+//  Copyright Â© 2019 Vince Nguyen.  All rights reserved.            //
 //                                                                  //
 //                                                                  //
-//  In submitting this file for class work at CSULB                 //
-//  I am confirming that this is my work and the work               //
-//  of no one else.  In submitting this code I acknowledge that     //
-//  plagiarism in student project work is subject to dismissal      //
-//  from the class.                                                 //
+//  This file generates a 25MHz clock from the 100MHz signal of the //
+//  Nexys 4 FPGA.  The module will be used for counting the pixels  //
+//  in the horizontal_scan_count.v file.                            //
 //******************************************************************//
 
 
