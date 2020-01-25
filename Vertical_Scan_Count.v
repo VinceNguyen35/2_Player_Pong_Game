@@ -4,14 +4,15 @@
 //  File Name:  Vertical_Scan_Count.v                               //
 //                                                                  //
 //  Created by Vince Nguyen on October 15th, 2019.                  //
-//  Copyright © 2019 Vince Nguyen.  All rights reserved.            //
+//  Copyright Â© 2019 Vince Nguyen.  All rights reserved.            //
 //                                                                  //
 //                                                                  //
-//  In submitting this file for class work at CSULB                 //
-//  I am confirming that this is my work and the work               //
-//  of no one else.  In submitting this code I acknowledge that     //
-//  plagiarism in student project work is subject to dismissal      //
-//  from the class.                                                 //
+//  This file scans the display of a monitor from top to bottom,    //
+//  line by line.  The purpose of counting the pixels is to         //
+//  designate a vertical coordinate for each pixel.  The file       //
+//  assumes there are at least 480 pixels available vertically on   //
+//  the display.  The pixel count updates when the horizontal count //
+//  is completed.                                                   //
 //******************************************************************//
 
 
