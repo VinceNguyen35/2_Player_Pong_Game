@@ -10,7 +10,7 @@
 //                                                                  //
 //  This file is an asynchronous in, synchronous out (AISO) module  //
 //  that will synchronously reset all other modules to a known      //
-//  state whenever the input "rst" is asserted.
+//  state whenever the input "rst" is asserted.                     //
 //******************************************************************//
 
 
